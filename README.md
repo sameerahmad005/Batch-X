@@ -4,75 +4,104 @@
 
 ### Companion App for Aligarh Muslim University (AMU) MCA Batch 2026–2028
 
-Stay connected with your academic journey through real-time class updates, notices, attendance, exam schedules, assignments, and more.
+Stay connected with your academic journey through smart timetables, live class updates, notices, assignments, attendance, exam schedules, and real-time notifications.
 
-![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)
-![Status](https://img.shields.io/badge/Status-Beta-ff9800?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![Notifications](https://img.shields.io/badge/Push-Firebase-orange?style=for-the-badge&logo=firebase)
-![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version-v1.0.0--beta-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Beta-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notifications-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
+</p>
+
+---
+
+## 📥 Download
+
+### 🚀 Latest Beta APK
+
+[![Download APK](https://img.shields.io/badge/Download-Latest%20Beta%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/sameerahmad005/Batch-26/releases/download/v1.0.0-beta/batch-26_v1.0.0_beta.apk)
+
+**Direct Download**
+
+https://github.com/sameerahmad005/Batch-26/releases/download/v1.0.0-beta/batch-26_v1.0.0_beta.apk
+
+Current Version: **v1.0.0 Beta**
 
 </div>
 
 ---
 
-## 📖 About
+# 📖 About
 
-**Batch 26** is a dedicated academic companion application built exclusively for **Aligarh Muslim University (AMU) MCA Batch 2026–2028**.
+**Batch 26** is a dedicated companion application developed exclusively for **Aligarh Muslim University (AMU) MCA Batch 2026–2028**.
 
-The application centralizes essential academic information into a single platform, helping students stay updated with lectures, notices, assignments, faculty information, exam schedules, and real-time class updates.
+The application brings all important academic information into one place, allowing students to stay informed about lectures, class schedules, department notices, assignments, exam schedules, faculty information, attendance, and real-time academic updates.
 
-Designed with a modern and intuitive interface, Batch 26 minimizes the need to switch between multiple communication channels by providing one unified experience.
+Designed with a modern and intuitive interface, Batch 26 aims to simplify day-to-day academic activities while providing a fast, reliable, and seamless mobile experience.
 
 ---
 
-## ✨ Features
+# ✨ Features
 
-### 📅 Smart Timetable
+## 📅 Smart Timetable
 
 - Semester-wise timetable
-- Automatic semester switching
+- Live class tracking
 - Current, Upcoming & Completed classes
-- Live class status
+- Automatic semester detection
 - Offline timetable support
 - Holiday detection
+- Real-time timetable updates
 
 ---
 
-### 🔔 Smart Notifications
+## 🔔 Smart Notifications
 
-- Class reminder (5 minutes before lecture)
-- Class start notification
-- Notices
+- 5-minute class reminders
+- Class started alerts
+- Department notices
+- Assignment notifications
+- Exam reminders
+- Class change alerts
+- General announcements
+
+---
+
+## 📚 Academic Resources
+
+- Timetable
+- Study Notes
 - Assignments
-- Exam notifications
-- Class updates
-- Real-time announcements
+- Exam Schedule
+- Faculty Directory
 
 ---
 
-### 📚 Academic Resources
-
-- Semester timetable
-- Study materials
-- Notes
-- Faculty directory
-- Exam schedules
-
----
-
-### 👨‍🏫 Faculty Directory
+## 👨‍🏫 Faculty Directory
 
 - Faculty profiles
 - Contact information
-- Email
-- Phone
-- Department
-- Multiple faculty support per subject
+- Phone numbers
+- Email addresses
+- Multiple faculty support
+- Faculty photos
 
 ---
 
-### 📝 Class Reporting
+## 📢 Department Notices
+
+- Academic notices
+- Important announcements
+- Priority notices
+- Attachments
+- Relative timestamps
+- Real-time updates
+
+---
+
+## 📝 Class Reporting
 
 Students can report:
 
@@ -80,200 +109,184 @@ Students can report:
 - Class Delayed
 - Room Changed
 
-Features include:
+Includes:
 
 - Community voting
-- Admin approval
-- Real-time updates
-- Live status changes
+- Admin verification
+- Live status updates
+- Instant notifications
 
 ---
 
-### 📢 Notices
+## 📊 Attendance
 
-- Department notices
-- Academic announcements
-- Important updates
-- Priority badges
-- Attachments
-- Relative timestamps
+- Subject-wise attendance
+- Semester-wise records
+- Quick overview
 
 ---
 
-### 📊 Attendance
+## 🗓 Exam Schedule
 
-- Track attendance
-- Subject-wise records
-- Semester-wise organization
-
----
-
-### 🗓 Exam Schedule
-
-- Detailed exam timetable
+- Complete exam timetable
+- Subject details
+- Examination hall
+- Date & time
 - Countdown
-- Exam details
-- Hall information
 
 ---
 
-### 🌙 Personalized Experience
+## 🌙 Personalization
 
-- Light Mode
-- Dark Mode
-- Offline support
+- Light Theme
+- Dark Theme
 - Notification preferences
 - Pause notifications
+- Offline mode
 - Profile management
 
 ---
 
-## ⚡ Highlights
+# ⚡ Highlights
 
-- Real-time updates using Supabase
-- Firebase Cloud Messaging
-- Offline-first experience
-- Local notification scheduling
-- Automatic semester detection
-- Smart caching
 - Modern Material Design
-- Mobile-first UI
+- Offline-first architecture
+- Smart caching
+- Real-time synchronization
+- Firebase Push Notifications
+- Local Notifications
+- Fast & lightweight
 - Secure authentication
-- Fast and lightweight
+- Responsive UI
 
 ---
 
-## 📱 Screens
-
-The application includes:
+# 📱 App Screens
 
 - Home
 - Today
 - Resources
-- Notices
-- Profile
-- Faculty Directory
 - Timetable
-- Exam Schedule
+- Notices
+- Faculty Directory
 - Assignments
+- Exam Schedule
 - Attendance
+- Profile
+- Settings
 - Notice Details
 - Faculty Details
 - Class Details
-- Settings
 
 ---
 
-## 🛠 Technology Stack
+# 🌐 Offline Support
 
-### Frontend
-
-- React
-- TypeScript
-- Tailwind CSS
-
-### Backend
-
-- Supabase
-- PostgreSQL
-- Realtime Database
-
-### Notifications
-
-- Firebase Cloud Messaging
-- Local Notifications
-
-### Authentication
-
-- Enrollment Number
-- Secure PIN Authentication
-
----
-
-## 🔒 Security
-
-Batch 26 follows security best practices.
-
-- Secure authentication
-- Hashed PIN storage
-- Row Level Security (RLS)
-- Protected API access
-- Secure database communication
-
----
-
-## 🌐 Offline Support
-
-The application is designed to work even without an internet connection.
+Batch 26 continues working even without an internet connection.
 
 Available offline:
 
 - Timetable
-- Today's classes
-- Faculty directory
-- Exam schedule
-- Cached academic data
+- Today's Classes
+- Faculty Directory
+- Exam Schedule
+- Cached Academic Data
 
-The application automatically synchronizes when connectivity is restored.
+When the internet becomes available, the application automatically synchronizes with the latest data.
 
 ---
 
-## 🚀 Performance
+# 🔒 Security
+
+Security features include:
+
+- Secure PIN Authentication
+- Encrypted PIN Storage
+- Protected Database Access
+- Secure Communication
+- User Authentication
+- Data Validation
+
+---
+
+# 🚀 Performance
 
 - Optimized loading
-- Cached data
-- Real-time synchronization
+- Fast startup
+- Local caching
+- Smooth animations
 - Lightweight assets
-- Responsive interface
-- Production-ready architecture
+- Battery-friendly
+- Responsive design
 
 ---
 
-## 📥 Download
+# 📥 Installation
 
-The latest release can be downloaded from the **Releases** section of this repository.
-
-> No source code is included in this repository.
-
----
-
-## 🐞 Feedback
-
-Found a bug or have a suggestion?
-
-Please open an Issue in this repository describing the problem or feature request.
+1. Download the latest APK from the Releases section.
+2. Enable **Install from Unknown Sources** if prompted.
+3. Install the application.
+4. Open the app.
+5. Login using your Enrollment Number.
+6. Complete Quick Setup.
 
 ---
 
-## 📄 Disclaimer
+# 📋 Requirements
 
-This application is an independent student companion developed for the convenience of **AMU MCA Batch 2026–2028**.
-
-It is **not an official application of Aligarh Muslim University** and is not affiliated with or endorsed by the university.
-
-All academic information should be verified through official university communication whenever required.
+- Android 8.0 (API 26) or above
+- Internet connection for live updates
+- Notification permission for reminders
+- Approximately 100 MB free storage
 
 ---
 
-## 👨‍💻 Developer
+# 🐞 Feedback
+
+Found a bug or have a feature request?
+
+Please open an **Issue** in this repository.
+
+Your feedback helps improve future releases.
+
+---
+
+# 📄 Disclaimer
+
+Batch 26 is an independent student companion application developed for **AMU MCA Batch 2026–2028**.
+
+This project is **not an official application of Aligarh Muslim University (AMU)** and is **not affiliated with or endorsed by the University**.
+
+Students should always verify official academic information through university notifications and announcements.
+
+---
+
+# 👨‍💻 Developer
 
 **Sameer Ahmad**
 
-- 🌐 Website: https://sameerahmadansari.me
-- 💼 LinkedIn: https://linkedin.com/in/sameer-abrar
-- 💻 GitHub: https://github.com/sameerahmad005
+🌐 Website  
+https://sameerahmadansari.me
+
+💻 GitHub  
+https://github.com/sameerahmad005
+
+💼 LinkedIn  
+https://linkedin.com/in/sameer-abrar
 
 ---
 
-## ⭐ Support
+# 📜 License
 
-If you find this project useful, consider giving the repository a ⭐.
+This project is licensed under the **MIT License**.
 
-It helps others discover the project and supports future development.
+See the **LICENSE** file for details.
 
 ---
 
 <div align="center">
+
+### ⭐ If you find this project useful, consider starring the repository.
 
 Made with ❤️ for **AMU MCA Batch 2026–2028**
 
