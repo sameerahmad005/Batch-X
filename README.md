@@ -4,32 +4,42 @@
 
 ### Companion App for Aligarh Muslim University (AMU) MCA Batch 2026–2028
 
-Stay connected with your academic journey through smart timetables, live class updates, notices, assignments, attendance, exam schedules, and real-time notifications.
+Stay connected with your academic journey through smart timetables, live class updates, notices, assignments, faculty information, exam schedules, and real-time notifications.
 
 <p>
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Version-v1.0.0--beta-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Beta-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Version-v1.0.3-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Release-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Notifications-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
 </p>
 
+</div>
+
 ---
 
 ## 📥 Download
 
-### 🚀 Latest Beta APK
+### 🚀 Latest APK
 
-[![Download APK](https://img.shields.io/badge/Download-Latest%20Beta%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/sameerahmad005/Batch-26/releases/download/v1.0.0-beta/batch-26_v1.0.0_beta.apk)
+[![Download APK](https://img.shields.io/badge/Download-Android%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/sameerahmad005/Batch-26/releases/download/app/batch-26_v1.0.3.apk)
 
 **Direct Download**
 
-https://github.com/sameerahmad005/Batch-26/releases/download/v1.0.0-beta/batch-26_v1.0.0_beta.apk
+https://github.com/sameerahmad005/Batch-26/releases/download/app/batch-26_v1.0.3.apk
 
-Current Version: **v1.0.0 Beta**
+Current Version: **v1.0.3**
 
-</div>
+---
+
+## 🎬 Preview
+
+<p align="center">
+  <img src="https://your-gif-link-here.gif" alt="Batch 26 Preview" width="80%" />
+</p>
+
+> Replace the GIF link above with your actual demo GIF or screen recording.
 
 ---
 
@@ -37,9 +47,9 @@ Current Version: **v1.0.0 Beta**
 
 **Batch 26** is a dedicated companion application developed exclusively for **Aligarh Muslim University (AMU) MCA Batch 2026–2028**.
 
-The application brings all important academic information into one place, allowing students to stay informed about lectures, class schedules, department notices, assignments, exam schedules, faculty information, attendance, and real-time academic updates.
+The app brings all important academic information into one place, helping students stay updated with lectures, class schedules, department notices, assignments, exam schedules, faculty details, and real-time academic updates.
 
-Designed with a modern and intuitive interface, Batch 26 aims to simplify day-to-day academic activities while providing a fast, reliable, and seamless mobile experience.
+Designed with a modern and intuitive interface, Batch 26 simplifies day-to-day academic life while providing a fast, reliable, and seamless mobile experience.
 
 ---
 
@@ -49,13 +59,11 @@ Designed with a modern and intuitive interface, Batch 26 aims to simplify day-to
 
 - Semester-wise timetable
 - Live class tracking
-- Current, Upcoming & Completed classes
+- Current, upcoming, and completed classes
 - Automatic semester detection
 - Offline timetable support
 - Holiday detection
 - Real-time timetable updates
-
----
 
 ## 🔔 Smart Notifications
 
@@ -67,17 +75,13 @@ Designed with a modern and intuitive interface, Batch 26 aims to simplify day-to
 - Class change alerts
 - General announcements
 
----
-
 ## 📚 Academic Resources
 
 - Timetable
-- Study Notes
+- Study notes
 - Assignments
-- Exam Schedule
-- Faculty Directory
-
----
+- Exam schedule
+- Faculty directory
 
 ## 👨‍🏫 Faculty Directory
 
@@ -88,8 +92,6 @@ Designed with a modern and intuitive interface, Batch 26 aims to simplify day-to
 - Multiple faculty support
 - Faculty photos
 
----
-
 ## 📢 Department Notices
 
 - Academic notices
@@ -98,8 +100,6 @@ Designed with a modern and intuitive interface, Batch 26 aims to simplify day-to
 - Attachments
 - Relative timestamps
 - Real-time updates
-
----
 
 ## 📝 Class Reporting
 
@@ -116,30 +116,18 @@ Includes:
 - Live status updates
 - Instant notifications
 
----
-
-## 📊 Attendance
-
-- Subject-wise attendance
-- Semester-wise records
-- Quick overview
-
----
-
 ## 🗓 Exam Schedule
 
 - Complete exam timetable
 - Subject details
 - Examination hall
-- Date & time
+- Date and time
 - Countdown
-
----
 
 ## 🌙 Personalization
 
-- Light Theme
-- Dark Theme
+- Light theme
+- Dark theme
 - Notification preferences
 - Pause notifications
 - Offline mode
@@ -153,9 +141,9 @@ Includes:
 - Offline-first architecture
 - Smart caching
 - Real-time synchronization
-- Firebase Push Notifications
-- Local Notifications
-- Fast & lightweight
+- Firebase push notifications
+- Local notifications
+- Fast and lightweight
 - Secure authentication
 - Responsive UI
 
@@ -171,7 +159,6 @@ Includes:
 - Faculty Directory
 - Assignments
 - Exam Schedule
-- Attendance
 - Profile
 - Settings
 - Notice Details
@@ -187,10 +174,10 @@ Batch 26 continues working even without an internet connection.
 Available offline:
 
 - Timetable
-- Today's Classes
-- Faculty Directory
-- Exam Schedule
-- Cached Academic Data
+- Today’s classes
+- Faculty directory
+- Exam schedule
+- Cached academic data
 
 When the internet becomes available, the application automatically synchronizes with the latest data.
 
@@ -200,12 +187,12 @@ When the internet becomes available, the application automatically synchronizes 
 
 Security features include:
 
-- Secure PIN Authentication
-- Encrypted PIN Storage
-- Protected Database Access
-- Secure Communication
-- User Authentication
-- Data Validation
+- Secure PIN authentication
+- Hashed PIN storage
+- Protected database access
+- Secure communication
+- User authentication
+- Data validation
 
 ---
 
@@ -223,11 +210,11 @@ Security features include:
 
 # 📥 Installation
 
-1. Download the latest APK from the Releases section.
+1. Download the latest APK from the link above.
 2. Enable **Install from Unknown Sources** if prompted.
 3. Install the application.
 4. Open the app.
-5. Login using your Enrollment Number.
+5. Log in using your enrollment number.
 6. Complete Quick Setup.
 
 ---
@@ -235,7 +222,7 @@ Security features include:
 # 📋 Requirements
 
 - Android 8.0 (API 26) or above
-- Internet connection for live updates
+- Internet connection for real-time features
 - Notification permission for reminders
 - Approximately 100 MB free storage
 
