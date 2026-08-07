@@ -36,7 +36,7 @@ Current Version: **v1.0.3**
 ## 🎬 Preview
 
 <p align="center">
-  <img src="preview/preview.gif" alt="Batch 26 preview GIF" width="300" />
+  <img src="preview/preview.gif?v=1.1" alt="Batch 26 preview GIF" width="300" />
 </p>
 
 ---
