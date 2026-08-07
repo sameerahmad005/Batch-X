@@ -36,10 +36,24 @@ Current Version: **v1.0.3**
 ## 🎬 Preview
 
 <p align="center">
-  <img src="https://your-gif-link-here.gif" alt="Batch 26 Preview" width="80%" />
+  <img src="preview/home_tab.jpg" alt="Home tab preview" width="80%" />
 </p>
 
-> Replace the GIF link above with your actual demo GIF or screen recording.
+<p align="center">
+  <img src="preview/today_tab.jpg" alt="Today tab preview" width="80%" />
+</p>
+
+<p align="center">
+  <img src="preview/resources_tab.jpg" alt="Resources tab preview" width="80%" />
+</p>
+
+<p align="center">
+  <img src="preview/notices_tab.jpg" alt="Notices tab preview" width="80%" />
+</p>
+
+<p align="center">
+  <img src="preview/profile_tab.jpg" alt="Profile tab preview" width="80%" />
+</p>
 
 ---
 
