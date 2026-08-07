@@ -36,11 +36,7 @@ Current Version: **v1.0.3**
 ## 🎬 Preview
 
 <p align="center">
-  <a href="preview/home_tab.jpg"><img src="preview/home_tab.jpg" alt="Home tab preview" width="180" style="margin: 5px;" /></a>
-  <a href="preview/today_tab.jpg"><img src="preview/today_tab.jpg" alt="Today tab preview" width="180" style="margin: 5px;" /></a>
-  <a href="preview/resources_tab.jpg"><img src="preview/resources_tab.jpg" alt="Resources tab preview" width="180" style="margin: 5px;" /></a>
-  <a href="preview/notices_tab.jpg"><img src="preview/notices_tab.jpg" alt="Notices tab preview" width="180" style="margin: 5px;" /></a>
-  <a href="preview/profile_tab.jpg"><img src="preview/profile_tab.jpg" alt="Profile tab preview" width="180" style="margin: 5px;" /></a>
+  <img src="preview/preview.gif" alt="Batch 26 preview GIF" width="300" />
 </p>
 
 ---
