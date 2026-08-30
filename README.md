@@ -23,13 +23,13 @@ Stay connected with your academic journey through smart timetables, live class u
 
 ### 🚀 Latest APK
 
-[![Download APK](https://img.shields.io/badge/Download-Android%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/sameerahmad005/Batch-26/releases/download/app/batch-26_v1.0.3.apk)
+[![Download APK](https://img.shields.io/badge/Download-Android%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/sameerahmad005/Batch-26/releases/download/v1.0.5/v1.0.5.apk)
 
 **Direct Download**
 
-https://github.com/sameerahmad005/Batch-26/releases/download/app/batch-26_v1.0.3.apk
+[https://github.com/sameerahmad005/Batch-26/releases/download/app/batch-26_v1.0.3.apk](https://github.com/sameerahmad005/Batch-26/releases/download/v1.0.5/v1.0.5.apk)
 
-Current Version: **v1.0.3**
+Current Version: **v1.0.5**
 
 ---
 
