@@ -1,280 +1,142 @@
-<div align="center">
+﻿<div align="center">
 
-# 🎓 Batch 26
+# 🎓 AMU BATCH X
 
-### Companion App for Aligarh Muslim University (AMU) MCA Batch 2026–2028
+### The Official Student Academic Companion App for Department of Computer Science
+**Aligarh Muslim University (AMU) · MCA Batch 2026–2028**
 
-Stay connected with your academic journey through smart timetables, live class updates, notices, assignments, faculty information, exam schedules, and real-time notifications.
+[![Website](https://img.shields.io/badge/Official%20Website-amubatchx.app-166534?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.amubatchx.app)
+[![Download APK](https://img.shields.io/badge/Download-Android%20APK%20(v1.0.8)-22c55e?style=for-the-badge&logo=android&logoColor=white)](https://www.amubatchx.app/download)
+[![Direct Download](https://img.shields.io/badge/Direct%20CDN-Download%20Binary-0f172a?style=for-the-badge&logo=cloud-download&logoColor=white)](https://www.amubatchx.app/api/download)
 
-<p>
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Version-v1.0.3-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Release-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notifications-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android%208.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-In%20Development-lightgrey?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version-v1.0.8%20Stable-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Push%20Alerts-Firebase%20FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Offline-SQLite%20Cache-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" />
 </p>
 
 </div>
 
 ---
 
-## 📥 Download
+## 📥 Direct Downloads & Web Platform
 
-### 🚀 Latest APK
+Get the latest Android release directly through the official website distribution engine or via GitHub:
 
-[![Download APK](https://img.shields.io/badge/Download-Android%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/sameerahmad005/Batch-26/releases/download/v1.0.5/v1.0.5.apk)
+| Channel | Destination | Details |
+| :--- | :--- | :--- |
+| 🌐 **Official Website Hub** | [**amubatchx.app/download**](https://www.amubatchx.app/download) | Interactive installation hub, verified builds & release notes |
+| ⚡ **Direct APK Download** | [**amubatchx.app/api/download**](https://www.amubatchx.app/api/download) | Instant redirect to the latest verified APK binary |
+| 📦 **GitHub Release** | [**Batch-X Releases (v1.0.8)**](https://github.com/sameerahmad005/Batch-X/releases/tag/v1.0.8) | Official GitHub release artifacts & assets |
+| 📱 **Direct APK File** | [**Download v1.0.8.apk**](https://github.com/sameerahmad005/Batch-26/releases/download/v1.0.8/v1.0.8.apk) | Direct package build (~24.2 MB) |
 
-**Direct Download**
-
-[https://github.com/sameerahmad005/Batch-26/releases/download/app/batch-26_v1.0.3.apk](https://github.com/sameerahmad005/Batch-26/releases/download/v1.0.5/v1.0.5.apk)
-
-Current Version: **v1.0.5**
-
----
-
-## 🎬 Preview
-
-<p align="center">
-  <img src="#" alt="Batch 26 Preview" width="80%" />
-</p>
-
-> Replace the GIF link above with your actual demo GIF or screen recording.
+> ℹ️ **iOS Users:** The native iOS edition for iPhone and iPad is currently in active development. Check [amubatchx.app/download](https://www.amubatchx.app/download) for updates.
 
 ---
 
-# 📖 About
+## 📖 About AMU BATCH X
 
-**Batch 26** is a dedicated companion application developed exclusively for **Aligarh Muslim University (AMU) MCA Batch 2026–2028**.
+**AMU BATCH X** is a high-performance, offline-first digital academic companion platform engineered specifically for students in the **Department of Computer Science at Aligarh Muslim University (AMU)**, targeted for the **MCA 2026–2028 batch**.
 
-The app brings all important academic information into one place, helping students stay updated with lectures, class schedules, department notices, assignments, exam schedules, faculty details, and real-time academic updates.
-
-Designed with a modern and intuitive interface, Batch 26 simplifies day-to-day academic life while providing a fast, reliable, and seamless mobile experience.
+It solves everyday academic friction: tracking attendance against the university's mandatory **75% minimum attendance rule**, viewing daily lecture timetables mapped to specific halls (**CS-01 to CS-04, Unix Lab 2, and Systems Labs**), receiving departmental circulars in real-time, accessing curated study notes, and managing previous-year question archives.
 
 ---
 
-# ✨ Features
+## 🌟 Core Features & Modules
 
-## 📅 Smart Timetable
+### 1. 📊 Smart Attendance Ledger
+- **AMU 75% Rule Cutoff Indicator**: Displays safe bunker margins and how many classes you must attend to stay above the 75% examination eligibility threshold.
+- Separate ledgers for **Theory** and **Laboratory** courses.
+- Historical attendance records with local SQLite persistence.
 
-- Semester-wise timetable
-- Live class tracking
-- Current, upcoming, and completed classes
-- Automatic semester detection
-- Offline timetable support
-- Holiday detection
-- Real-time timetable updates
+### 2. 📅 Room-Mapped Dynamic Timetable
+- Day-wise and semester-wise lecture schedules.
+- Exact department room locations (**CS-01, CS-02, CS-03, CS-04, Lab 1, Unix Lab 2**).
+- Real-time indicator for ongoing, upcoming, and completed classes.
+- Automatic holiday and vacation scheduling.
 
-## 🔔 Smart Notifications
+### 3. 🔔 Priority Circulars & Instant Push Notifications
+- Sub-5-second push delivery for critical department circulars via **Firebase Cloud Messaging (FCM)**.
+- Automated 5-minute pre-lecture reminders so you never miss a class.
+- Exam schedule alerts, hall ticket notifications, and practical exam postings.
 
-- 5-minute class reminders
-- Class started alerts
-- Department notices
-- Assignment notifications
-- Exam reminders
-- Class change alerts
-- General announcements
+### 4. 📝 Crowdsourced Class Rescheduling
+- Peer-reported class cancellations, delays, and room changes.
+- Community voting verification to confirm changes before updating the schedule.
+- Instant alert to batchmates when a class status changes.
 
-## 📚 Academic Resources
+### 5. 📚 Study Vault & Question Archives
+- Curated MCA course notes, syllabus breakdowns, and lab manuals.
+- Previous-year examination questions (PYQs) and model test papers.
+- Fast offline access to downloaded study documents.
 
-- Timetable
-- Study notes
-- Assignments
-- Exam schedule
-- Faculty directory
-
-## 👨‍🏫 Faculty Directory
-
-- Faculty profiles
-- Contact information
-- Phone numbers
-- Email addresses
-- Multiple faculty support
-- Faculty photos
-
-## 📢 Department Notices
-
-- Academic notices
-- Important announcements
-- Priority notices
-- Attachments
-- Relative timestamps
-- Real-time updates
-
-## 📝 Class Reporting
-
-Students can report:
-
-- Class Cancelled
-- Class Delayed
-- Room Changed
-
-Includes:
-
-- Community voting
-- Admin verification
-- Live status updates
-- Instant notifications
-
-## 🗓 Exam Schedule
-
-- Complete exam timetable
-- Subject details
-- Examination hall
-- Date and time
-- Countdown
-
-## 🌙 Personalization
-
-- Light theme
-- Dark theme
-- Notification preferences
-- Pause notifications
-- Offline mode
-- Profile management
+### 6. 🌐 Offline-First Architecture
+- Full offline capability: Timetable, notes, and attendance remain fully accessible when campus Wi-Fi or cellular networks drop.
+- Seamless background synchronization with **Supabase** once internet connectivity is restored.
 
 ---
 
-# ⚡ Highlights
+## 🛠️ Technology Stack
 
-- Modern Material Design
-- Offline-first architecture
-- Smart caching
-- Real-time synchronization
-- Firebase push notifications
-- Local notifications
-- Fast and lightweight
-- Secure authentication
-- Responsive UI
-
----
-
-# 📱 App Screens
-
-- Home
-- Today
-- Resources
-- Timetable
-- Notices
-- Faculty Directory
-- Assignments
-- Exam Schedule
-- Profile
-- Settings
-- Notice Details
-- Faculty Details
-- Class Details
+| Layer | Technologies |
+| :--- | :--- |
+| **Mobile Runtime** | React 19, TypeScript, Vite, Capacitor 7 |
+| **Styling** | Tailwind CSS v4, Modern OLED Dark & Light themes |
+| **Backend & Database** | Supabase (PostgreSQL, Row Level Security, Storage Buckets) |
+| **Cloud Storage** | Supabase Object Storage (`app-releases` CDN) |
+| **Push Infrastructure** | Firebase Cloud Messaging (FCM) & Capacitor Local Notifications |
+| **Web Distribution** | Next.js 16, Turbopack, Tailwind CSS, Vercel Edge Network |
 
 ---
 
-# 🌐 Offline Support
+## 📱 Installation Instructions
 
-Batch 26 continues working even without an internet connection.
-
-Available offline:
-
-- Timetable
-- Today’s classes
-- Faculty directory
-- Exam schedule
-- Cached academic data
-
-When the internet becomes available, the application automatically synchronizes with the latest data.
+1. **Download the APK**:
+   Tap [Download App](https://www.amubatchx.app/download) or use the [Direct Download Link](https://www.amubatchx.app/api/download).
+2. **Allow Installation**:
+   If prompted by Android, tap **Settings** and enable **Allow from this source** for Chrome or your browser.
+3. **Install & Launch**:
+   Open the downloaded `v1.0.8.apk` file and tap **Install**.
+4. **Sign In**:
+   Log in with your student credentials or enrollment identifier to activate your personalized timetable and attendance ledger.
 
 ---
 
-# 🔒 Security
+## 📋 System Requirements
 
-Security features include:
-
-- Secure PIN authentication
-- Hashed PIN storage
-- Protected database access
-- Secure communication
-- User authentication
-- Data validation
+- **Operating System**: Android 8.0 (Oreo / API Level 26) or newer
+- **Architecture**: Universal (ARM64-v8a, ARMv7a, x86_64)
+- **App Size**: ~24.2 MB
+- **Permissions**: Notifications (optional for lecture reminders), Storage (for notes downloads)
 
 ---
 
-# 🚀 Performance
+## 👨‍💻 Engineering Team
 
-- Optimized loading
-- Fast startup
-- Local caching
-- Smooth animations
-- Lightweight assets
-- Battery-friendly
-- Responsive design
+AMU BATCH X is built and maintained by students from the Department of Computer Science, Aligarh Muslim University:
 
----
-
-# 📥 Installation
-
-1. Download the latest APK from the link above.
-2. Enable **Install from Unknown Sources** if prompted.
-3. Install the application.
-4. Open the app.
-5. Log in using your enrollment number.
-6. Complete Quick Setup.
+- **Sameer Ahmad** — *Lead Mobile Developer & Architecture*  
+  GitHub: [@sameerahmad005](https://github.com/sameerahmad005) · LinkedIn: [sameer-abrar](https://linkedin.com/in/sameer-abrar) · Website: [sameerahmadansari.me](https://sameerahmadansari.me)
+- **Ali Saqulain** — *Web Platform & UI Engineering*  
+  GitHub: [@Alisaqulain](https://github.com/Alisaqulain) · LinkedIn: [ali-saqulain](https://www.linkedin.com/in/ali-saqulain-7404a8287)
+- **Okash** — *Student Engineering Contributor*
 
 ---
 
-# 📋 Requirements
+## 📄 Disclaimer
 
-- Android 8.0 (API 26) or above
-- Internet connection for real-time features
-- Notification permission for reminders
-- Approximately 100 MB free storage
-
----
-
-# 🐞 Feedback
-
-Found a bug or have a feature request?
-
-Please open an **Issue** in this repository.
-
-Your feedback helps improve future releases.
-
----
-
-# 📄 Disclaimer
-
-Batch 26 is an independent student companion application developed for **AMU MCA Batch 2026–2028**.
-
-This project is **not an official application of Aligarh Muslim University (AMU)** and is **not affiliated with or endorsed by the University**.
-
-Students should always verify official academic information through university notifications and announcements.
-
----
-
-# 👨‍💻 Developer
-
-**Sameer Ahmad**
-
-🌐 Website  
-https://sameerahmadansari.me
-
-💻 GitHub  
-https://github.com/sameerahmad005
-
-💼 LinkedIn  
-https://linkedin.com/in/sameer-abrar
-
----
-
-# 📜 License
-
-This project is licensed under the **MIT License**.
-
-See the **LICENSE** file for details.
+**AMU BATCH X** is an independent student companion application created for the MCA community in the Department of Computer Science at Aligarh Muslim University. It is not an official university administration platform and is not operated by AMU administrative offices.
 
 ---
 
 <div align="center">
 
-### ⭐ If you find this project useful, consider starring the repository.
+### ⭐ Star this repository if you find it helpful!
 
-Made with ❤️ for **AMU MCA Batch 2026–2028**
+Built with ❤️ for **Department of Computer Science · Aligarh Muslim University**
 
 </div>
